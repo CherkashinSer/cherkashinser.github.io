@@ -1,0 +1,38 @@
+#logo-image {
+	width: 300px;
+	border: 0px solid white;
+	border-radius: 50px 0 50px 0;
+	}
+
+.navigation {
+	border: 3px solid black;
+	border-radius: 50px 0 50px 0;
+	padding: 20px 40px;
+	font-size: 20px;
+	text-align: left;
+	color: blue;
+	background-color: silver;
+	margin-left: 100px;
+	line-height: 30px;
+
+}
+div {
+ height: 30px;
+  width: 500px;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+
+
+  background: #333333;
+}
+
+.text-white {
+  color: skyblue;
+	font-style: italic;
+	font-weight: 900;
+	font-size: 20px;
+	
+
+	
+}
